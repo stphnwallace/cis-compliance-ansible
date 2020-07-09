@@ -1,0 +1,3 @@
+file:
+  /etc/DOES-NOT-EXIST:
+    exists: true
